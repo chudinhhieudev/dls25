@@ -1,0 +1,351 @@
+{
+  "version": 3,
+  "source_game_version": "12.250",
+  "source_version_code": 127,
+  "data": [],
+  "packs": [
+    {
+      "identifier": "ClothSim",
+      "filename": "clothsim.pak",
+      "bytes": 22147808,
+      "sha256": "c49dbf9fdff354352ebb93a075aea0a9bc18a3ea3f50364e7d391cd361c97440",
+      "asset": "droicer/packs25/ClothSim_e0ebd128.pak"
+    },
+    {
+      "identifier": "Comm_BraPor",
+      "filename": "comm_brapor.pak",
+      "bytes": 45805428,
+      "sha256": "b3f86da8bec931ffab7f94255d37ac536ceee95596d81c6bece3dbd560ede592",
+      "asset": "droicer/packs25/Comm_BraPor_894a46b.pak"
+    },
+    {
+      "identifier": "Comm_Eng",
+      "filename": "comm_eng.pak",
+      "bytes": 82960136,
+      "sha256": "3bde1ec655ebd073426084a309d78bd72741fb7dab1486bd47cef8511e6b6a95",
+      "asset": "droicer/packs25/Comm_Eng_b94acecd.pak"
+    },
+    {
+      "identifier": "Comm_Spa",
+      "filename": "comm_spa.pak",
+      "bytes": 108153300,
+      "sha256": "07030994509a58d147f069bf8c47102a2afff82e172121008651e23fb0c1298f",
+      "asset": "droicer/packs25/Comm_Spa_efb9978f.pak"
+    },
+    {
+      "identifier": "Facilities",
+      "filename": "facilities.pak",
+      "bytes": 33696100,
+      "sha256": "9dc10ed928334abb2e46c232b4dbcc53849edd171db19cbbfc7b0174c2718755",
+      "asset": "droicer/packs25/Facilities_297ab02f.pak"
+    },
+    {
+      "identifier": "Music",
+      "filename": "music.pak",
+      "bytes": 23112532,
+      "sha256": "8dd9f7714a3068779e0d8c49518e7d8b03f87bf12c40cb65bdd823da18a16df9",
+      "asset": "droicer/packs25/Music_d3969406.pak"
+    },
+    {
+      "identifier": "PlayerPhotos",
+      "filename": "playerphotos.pak",
+      "bytes": 61858184,
+      "sha256": "2b06ab535e770f264e931da4e0698e731d3646c91a05d6842b122b30fe5e4d64",
+      "asset": "droicer/packs25/PlayerPhotos_22d94de7.pak"
+    },
+    {
+      "identifier": "StarheadA",
+      "filename": "starheada.pak",
+      "bytes": 20970344,
+      "sha256": "9127b37cfc62601e855bc0981a8cb3536e9ec5ea01941220a562e27dae699ed6",
+      "asset": "droicer/packs25/StarheadA_7507dbe4.pak"
+    },
+    {
+      "identifier": "StarheadB",
+      "filename": "starheadb.pak",
+      "bytes": 28068136,
+      "sha256": "f731806392f59b6008fc276c5f7a1e423ab46f2f147bc64bcd47ae32afa9f023",
+      "asset": "droicer/packs25/StarheadB_5cbaf2f8.pak"
+    },
+    {
+      "identifier": "StarheadC",
+      "filename": "starheadc.pak",
+      "bytes": 31195500,
+      "sha256": "18a3fbcd7750ddcbb201f2ddb164f1a4320210c93e04e02029b9e42f6c17d2da",
+      "asset": "droicer/packs25/StarheadC_c32661fd.pak"
+    },
+    {
+      "identifier": "StarheadD",
+      "filename": "starheadd.pak",
+      "bytes": 40183292,
+      "sha256": "2f7077a8c7aac45b5100861c889d366c3cbd60d6c1af3e39aab64e1e2ea88702",
+      "asset": "droicer/packs25/StarheadD_316f4728.pak"
+    },
+    {
+      "identifier": "StarheadE",
+      "filename": "starheade.pak",
+      "bytes": 27317636,
+      "sha256": "ef0ad48b3a3913a4a32cb46c4ee42106746dce841c71dad113d0f1f7fee8d0f5",
+      "asset": "droicer/packs25/StarheadE_5efcd64a.pak"
+    },
+    {
+      "identifier": "Starhead_10324",
+      "filename": "starhead_10324.pak",
+      "bytes": 697044,
+      "sha256": "517fc152f7a70ddb61b1eb4f695f23233d7940e2c97568672dc76e861ceff67a",
+      "asset": "droicer/packs25/Starhead_10324_a52d3b09.pak"
+    },
+    {
+      "identifier": "Starhead_11618",
+      "filename": "starhead_11618.pak",
+      "bytes": 481916,
+      "sha256": "10e44eb174724f0f0b3c366256e3378292c1e2a65e0ee7d4543ca658d4af564c",
+      "asset": "droicer/packs25/Starhead_11618_ecc56f2e.pak"
+    },
+    {
+      "identifier": "Starhead_11624",
+      "filename": "starhead_11624.pak",
+      "bytes": 396164,
+      "sha256": "2d7347aa680b8cee2dd7e51e1c82c7b3033d467192fc7cb136674bb4d2ed5773",
+      "asset": "droicer/packs25/Starhead_11624_d508d404.pak"
+    },
+    {
+      "identifier": "Starhead_11650",
+      "filename": "starhead_11650.pak",
+      "bytes": 487448,
+      "sha256": "fa733a218e9a5042abd1dd21b94e6a0885878efc49d6ce709ba441311211d6ab",
+      "asset": "droicer/packs25/Starhead_11650_c0bd0d09.pak"
+    },
+    {
+      "identifier": "Starhead_11958",
+      "filename": "starhead_11958.pak",
+      "bytes": 519452,
+      "sha256": "eaec58c4190d6a0021f5c0ed50947d8141c0a6adace713d0f945eda904613b8f",
+      "asset": "droicer/packs25/Starhead_11958_51f2aaf0.pak"
+    },
+    {
+      "identifier": "Starhead_12029",
+      "filename": "starhead_12029.pak",
+      "bytes": 481592,
+      "sha256": "ce9014344ce51336643ed26be5a6a024bb28b5376f0e2d14cc47421f7c404461",
+      "asset": "droicer/packs25/Starhead_12029_95832c03.pak"
+    },
+    {
+      "identifier": "Starhead_12224",
+      "filename": "starhead_12224.pak",
+      "bytes": 616336,
+      "sha256": "dfc6474be060baaba26d2311f01fa593f8809878896159e77afb2e0d35ed63bf",
+      "asset": "droicer/packs25/Starhead_12224_1733cbba.pak"
+    },
+    {
+      "identifier": "Starhead_12375",
+      "filename": "starhead_12375.pak",
+      "bytes": 468516,
+      "sha256": "1945522adfd8fd9808cef0334c2198ef97025a2297a26d76996739d17d8e1f1a",
+      "asset": "droicer/packs25/Starhead_12375_648f4eef.pak"
+    },
+    {
+      "identifier": "Starhead_13040",
+      "filename": "starhead_13040.pak",
+      "bytes": 416512,
+      "sha256": "b2db9fb0830e8d16a5ed23cba165daeee492d407759e76ae6bae8ed4d810ebe9",
+      "asset": "droicer/packs25/Starhead_13040_fe37d6d4.pak"
+    },
+    {
+      "identifier": "Starhead_13309",
+      "filename": "starhead_13309.pak",
+      "bytes": 391808,
+      "sha256": "002d06a4a8a5f9b39d0cc4d737a3929f1317c95b217af9bf4854cd62771c42c1",
+      "asset": "droicer/packs25/Starhead_13309_fdc56505.pak"
+    },
+    {
+      "identifier": "Starhead_13747",
+      "filename": "starhead_13747.pak",
+      "bytes": 497416,
+      "sha256": "710c625045621636c54099fb285941e601264b6800eaddf3ae14570b44a8767c",
+      "asset": "droicer/packs25/Starhead_13747_7b68623b.pak"
+    },
+    {
+      "identifier": "Starhead_1497",
+      "filename": "starhead_1497.pak",
+      "bytes": 437080,
+      "sha256": "dc31a2090ed395f57b0ee2acd8746ad6b0275003378d6e2f42de643a53cfb610",
+      "asset": "droicer/packs25/Starhead_1497_86e5acca.pak"
+    },
+    {
+      "identifier": "Starhead_16349",
+      "filename": "starhead_16349.pak",
+      "bytes": 501872,
+      "sha256": "03373b6f9f2670b9942d375ee894c70074dd7e708b1abecfd1de767b218c5693",
+      "asset": "droicer/packs25/Starhead_16349_34dbff77.pak"
+    },
+    {
+      "identifier": "Starhead_16489",
+      "filename": "starhead_16489.pak",
+      "bytes": 396868,
+      "sha256": "521b8d49d8da7e4daf0785d469593d1898d081bd4bc04dbdf99b4860dd2326eb",
+      "asset": "droicer/packs25/Starhead_16489_7e643334.pak"
+    },
+    {
+      "identifier": "Starhead_187",
+      "filename": "starhead_187.pak",
+      "bytes": 699080,
+      "sha256": "99e74a9ae55186028f19c141419dac81b3d8d11f0eeff544135ac52271458020",
+      "asset": "droicer/packs25/Starhead_187_1f772cc7.pak"
+    },
+    {
+      "identifier": "Starhead_2360",
+      "filename": "starhead_2360.pak",
+      "bytes": 673132,
+      "sha256": "a40bc26c10eda3a55d77840fa2bf373d0f142049921f5269c9fb92bce82edbdb",
+      "asset": "droicer/packs25/Starhead_2360_c1924353.pak"
+    },
+    {
+      "identifier": "Starhead_2458",
+      "filename": "starhead_2458.pak",
+      "bytes": 678224,
+      "sha256": "82f00db2155cfc633554dcc048c40ebc724f6b271fd31ce41b22078bf1b3ba50",
+      "asset": "droicer/packs25/Starhead_2458_2ef7d2.pak"
+    },
+    {
+      "identifier": "Starhead_2517",
+      "filename": "starhead_2517.pak",
+      "bytes": 521372,
+      "sha256": "2ce1af3c2132816825f5f007791d7b1e0bfa4b90c6109ecaeddc7ef99cd84cf7",
+      "asset": "droicer/packs25/Starhead_2517_c9e4331d.pak"
+    },
+    {
+      "identifier": "Starhead_2591",
+      "filename": "starhead_2591.pak",
+      "bytes": 715996,
+      "sha256": "2091cc8af5e71cebc1757918edc794a3cff5ee30369e56cca5ea6d0e8efd5ab8",
+      "asset": "droicer/packs25/Starhead_2591_847789b7.pak"
+    },
+    {
+      "identifier": "Starhead_2602",
+      "filename": "starhead_2602.pak",
+      "bytes": 700304,
+      "sha256": "06de400568645beda558240714df558c5cd6ea52e6bf4b2f51c1c43d577cea3b",
+      "asset": "droicer/packs25/Starhead_2602_c7035441.pak"
+    },
+    {
+      "identifier": "Starhead_3179",
+      "filename": "starhead_3179.pak",
+      "bytes": 684216,
+      "sha256": "5ed9b293d9a7a8a68c7220381ca6911eea098115ccf673bbeab1be295c72923d",
+      "asset": "droicer/packs25/Starhead_3179_25e4f278.pak"
+    },
+    {
+      "identifier": "Starhead_369",
+      "filename": "starhead_369.pak",
+      "bytes": 435764,
+      "sha256": "348f924fa3bafe7b77b6d726e257073515a6526008c7dad01404916b701ba929",
+      "asset": "droicer/packs25/Starhead_369_4f8bcc99.pak"
+    },
+    {
+      "identifier": "Starhead_4053",
+      "filename": "starhead_4053.pak",
+      "bytes": 321236,
+      "sha256": "bdfaff6a961cdd05f5028a82e04b7c1c10fb79a28a8e0f39e2407962ae2689d2",
+      "asset": "droicer/packs25/Starhead_4053_7d732a2.pak"
+    },
+    {
+      "identifier": "Starhead_4057",
+      "filename": "starhead_4057.pak",
+      "bytes": 447880,
+      "sha256": "ea94a84281a97b294a5fa80fc248837044cfa0c1860972804a20c9f9031f89d7",
+      "asset": "droicer/packs25/Starhead_4057_2ed7b09b.pak"
+    },
+    {
+      "identifier": "Starhead_5338",
+      "filename": "starhead_5338.pak",
+      "bytes": 658968,
+      "sha256": "e1f71a43fcb7ca04444404e6ed26e579a5a7eafd1c8ba3d118794071502d61b4",
+      "asset": "droicer/packs25/Starhead_5338_efff52d7.pak"
+    },
+    {
+      "identifier": "Starhead_6018",
+      "filename": "starhead_6018.pak",
+      "bytes": 550100,
+      "sha256": "872ec08e56556a8d762f12a3324de9548366da2d51b055112bba71de4718bf0a",
+      "asset": "droicer/packs25/Starhead_6018_56ca6bc1.pak"
+    },
+    {
+      "identifier": "Starhead_6567",
+      "filename": "starhead_6567.pak",
+      "bytes": 568736,
+      "sha256": "fc6d162625e22ac902038cc33506147ec383f7d94c3a607a365e79f58af24c89",
+      "asset": "droicer/packs25/Starhead_6567_f75c633.pak"
+    },
+    {
+      "identifier": "Starhead_6785",
+      "filename": "starhead_6785.pak",
+      "bytes": 646572,
+      "sha256": "5900ef403a5848be0eabbc234f5a4cdbab6f6ec6564892313ee760519c2cc654",
+      "asset": "droicer/packs25/Starhead_6785_9f702a60.pak"
+    },
+    {
+      "identifier": "Starhead_7253",
+      "filename": "starhead_7253.pak",
+      "bytes": 485020,
+      "sha256": "7c594cf6fc920a9be822d63c7c482be6535761ebc3d0ab7ff1e2ba74be5a72c9",
+      "asset": "droicer/packs25/Starhead_7253_31c807d6.pak"
+    },
+    {
+      "identifier": "Starhead_7394",
+      "filename": "starhead_7394.pak",
+      "bytes": 450520,
+      "sha256": "7606bfa2216b3a0d560f61d4cfe2b590941155a55ec4f58892d9c17866e696b0",
+      "asset": "droicer/packs25/Starhead_7394_41a597d1.pak"
+    },
+    {
+      "identifier": "Starhead_7413",
+      "filename": "starhead_7413.pak",
+      "bytes": 497948,
+      "sha256": "499b03ccf5d1fa129eab997cd249952889de3c3f4ae7aaf5e2033f640726431e",
+      "asset": "droicer/packs25/Starhead_7413_c18f1f0c.pak"
+    },
+    {
+      "identifier": "Starhead_9127",
+      "filename": "starhead_9127.pak",
+      "bytes": 647304,
+      "sha256": "fc4ef2f38a1395364db6a70efccdacd952daf24e486149a2caf197023f9fdc5a",
+      "asset": "droicer/packs25/Starhead_9127_bc2fb976.pak"
+    },
+    {
+      "identifier": "Starhead_9512",
+      "filename": "starhead_9512.pak",
+      "bytes": 557852,
+      "sha256": "40187c65673359aba23ca9c25c5c303122d44a0f0b73825656632286bd1188db",
+      "asset": "droicer/packs25/Starhead_9512_3576650d.pak"
+    },
+    {
+      "identifier": "Starhead_9548",
+      "filename": "starhead_9548.pak",
+      "bytes": 717772,
+      "sha256": "b5b61a105710a8d676afcfd3e3e62b52f75882449b2d4f3c178c1c45fa0d1646",
+      "asset": "droicer/packs25/Starhead_9548_99d17712.pak"
+    },
+    {
+      "identifier": "TopMipsA",
+      "filename": "topmipsa.pak",
+      "bytes": 41561412,
+      "sha256": "5f3494fd83a496400caf8e9abd7fffa0f2a0ec23b94d683744f4456c9dc912f3",
+      "asset": "droicer/packs25/TopMipsA_8af5040d.pak"
+    },
+    {
+      "identifier": "TopMipsB",
+      "filename": "topmipsb.pak",
+      "bytes": 36486052,
+      "sha256": "ae18d99a30018f72e1ae2271234d2fda69a53765d74bb714775df52dc65b03c2",
+      "asset": "droicer/packs25/TopMipsB_405c6aa.pak"
+    },
+    {
+      "identifier": "TopMipsC",
+      "filename": "topmipsc.pak",
+      "bytes": 30319772,
+      "sha256": "86c7b33680ac185f4165dd65758fb76ff5114d9bcd325fd9c513935ae4c4c358",
+      "asset": "droicer/packs25/TopMipsC_814f96e1.pak"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# === APK & Build Outputs (File nặng bắt buộc phải ignore) ===
+*.apk
+*.apk.bak
+*.idsig
+*.aab
+*.xapk
+*.apks
+
+# File vượt quá giới hạn 100MB của GitHub
+assets/droicer/packs25/Comm_Spa_efb9978f.pak
+
+# Thư mục build sinh ra từ Apktool
+build/
+dist/
+
+# === File tạm của hệ thống & Editor ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# File tạm Office / Excel (khi mở file)
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# === IDE & Editors ===
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === Key & Chứng chỉ (Bảo mật - không đưa lên Git) ===
+*.keystore
+*.jks
+*.pk8
+*.pem

@@ -1,0 +1,521 @@
+{
+  "schema": 1,
+  "source": "DLS25 original native model IDs; matching ARM64 and ARMv7 tables",
+  "models": {
+    "1": {
+      "name": "corner_a_1_a",
+      "flags": 1
+    },
+    "2": {
+      "name": "corner_a_1_b",
+      "flags": 1
+    },
+    "3": {
+      "name": "corner_a_1_c",
+      "flags": 1
+    },
+    "4": {
+      "name": "corner_a_1_d",
+      "flags": 1
+    },
+    "5": {
+      "name": "corner_a_2_a",
+      "flags": 1
+    },
+    "6": {
+      "name": "corner_a_2_b",
+      "flags": 1
+    },
+    "7": {
+      "name": "corner_a_2_c",
+      "flags": 1
+    },
+    "8": {
+      "name": "corner_a_2_d",
+      "flags": 1
+    },
+    "9": {
+      "name": "corner_a_3_a",
+      "flags": 1
+    },
+    "10": {
+      "name": "corner_a_3_b",
+      "flags": 1
+    },
+    "11": {
+      "name": "corner_a_3_c",
+      "flags": 1
+    },
+    "12": {
+      "name": "corner_a_3_e",
+      "flags": 1
+    },
+    "13": {
+      "name": "corner_b_1_a",
+      "flags": 1
+    },
+    "14": {
+      "name": "corner_b_2_a",
+      "flags": 1
+    },
+    "15": {
+      "name": "corner_b_2_b",
+      "flags": 1
+    },
+    "16": {
+      "name": "corner_b_2_c",
+      "flags": 1
+    },
+    "17": {
+      "name": "corner_b_2_d",
+      "flags": 1
+    },
+    "18": {
+      "name": "corner_b_3_a",
+      "flags": 1
+    },
+    "19": {
+      "name": "corner_b_3_b",
+      "flags": 1
+    },
+    "20": {
+      "name": "corner_b_3_c",
+      "flags": 1
+    },
+    "21": {
+      "name": "corner_b_3_d",
+      "flags": 1
+    },
+    "22": {
+      "name": "corner_b_3_f",
+      "flags": 1
+    },
+    "23": {
+      "name": "corner_b_3_i",
+      "flags": 1
+    },
+    "24": {
+      "name": "corner_c_1_a",
+      "flags": 1
+    },
+    "25": {
+      "name": "corner_d_1_a",
+      "flags": 1
+    },
+    "26": {
+      "name": "corner_d_1_b",
+      "flags": 1
+    },
+    "27": {
+      "name": "corner_e_1_a",
+      "flags": 1
+    },
+    "28": {
+      "name": "corner_e_1_b",
+      "flags": 1
+    },
+    "29": {
+      "name": "corner_f_1_a",
+      "flags": 1
+    },
+    "30": {
+      "name": "corner_f_1_b",
+      "flags": 1
+    },
+    "31": {
+      "name": "corner_g_2_a",
+      "flags": 1
+    },
+    "32": {
+      "name": "corner_g_3_a",
+      "flags": 1
+    },
+    "33": {
+      "name": "corner_g_3_b",
+      "flags": 1
+    },
+    "34": {
+      "name": "corner_g_3_d",
+      "flags": 1
+    },
+    "35": {
+      "name": "corner_h_2_a",
+      "flags": 1
+    },
+    "36": {
+      "name": "corner_i_2_b",
+      "flags": 1
+    },
+    "37": {
+      "name": "corner_x_0_a",
+      "flags": 0
+    },
+    "38": {
+      "name": "corner_x_0_b",
+      "flags": 0
+    },
+    "39": {
+      "name": "corner_x_0_c",
+      "flags": 0
+    },
+    "40": {
+      "name": "corner_x_0_d",
+      "flags": 0
+    },
+    "41": {
+      "name": "corner_x_0_e",
+      "flags": 1
+    },
+    "42": {
+      "name": "corner_x_0_f",
+      "flags": 1
+    },
+    "43": {
+      "name": "corner_x_0_g",
+      "flags": 1
+    },
+    "44": {
+      "name": "corner_x_0_h",
+      "flags": 1
+    },
+    "45": {
+      "name": "corner_x_0_i",
+      "flags": 1
+    },
+    "46": {
+      "name": "corner_x_0_j",
+      "flags": 1
+    },
+    "47": {
+      "name": "corner_x_0_k",
+      "flags": 1
+    },
+    "48": {
+      "name": "corner_x_0_l",
+      "flags": 1
+    },
+    "49": {
+      "name": "corner_x_0_m",
+      "flags": 1
+    },
+    "50": {
+      "name": "corner_x_0_n",
+      "flags": 1
+    },
+    "51": {
+      "name": "corner_x_0_o",
+      "flags": 1
+    },
+    "52": {
+      "name": "corner_x_0_p",
+      "flags": 1
+    },
+    "53": {
+      "name": "end_a_1_a",
+      "flags": 1
+    },
+    "54": {
+      "name": "end_a_1_b",
+      "flags": 1
+    },
+    "55": {
+      "name": "end_a_2_a",
+      "flags": 1
+    },
+    "56": {
+      "name": "end_a_2_b",
+      "flags": 1
+    },
+    "57": {
+      "name": "end_a_3_a",
+      "flags": 1
+    },
+    "58": {
+      "name": "end_a_3_b",
+      "flags": 1
+    },
+    "59": {
+      "name": "end_a_3_c",
+      "flags": 1
+    },
+    "60": {
+      "name": "end_a_3_d",
+      "flags": 1
+    },
+    "61": {
+      "name": "end_c_1_a",
+      "flags": 1
+    },
+    "62": {
+      "name": "end_d_1_a",
+      "flags": 1
+    },
+    "63": {
+      "name": "end_d_1_b",
+      "flags": 1
+    },
+    "64": {
+      "name": "end_e_1_a",
+      "flags": 1
+    },
+    "65": {
+      "name": "end_e_1_b",
+      "flags": 1
+    },
+    "66": {
+      "name": "end_f_1_a",
+      "flags": 1
+    },
+    "67": {
+      "name": "end_f_1_b",
+      "flags": 1
+    },
+    "68": {
+      "name": "end_g_2_a",
+      "flags": 1
+    },
+    "69": {
+      "name": "end_g_2_b",
+      "flags": 1
+    },
+    "70": {
+      "name": "end_g_3_a",
+      "flags": 1
+    },
+    "71": {
+      "name": "end_h_2_a",
+      "flags": 1
+    },
+    "72": {
+      "name": "end_i_2_a",
+      "flags": 1
+    },
+    "73": {
+      "name": "end_m_1_a",
+      "flags": 1
+    },
+    "74": {
+      "name": "side_a_1_a",
+      "flags": 1
+    },
+    "75": {
+      "name": "side_a_1_b",
+      "flags": 1
+    },
+    "76": {
+      "name": "side_a_2_a",
+      "flags": 1
+    },
+    "77": {
+      "name": "side_a_3_a",
+      "flags": 1
+    },
+    "78": {
+      "name": "side_a_3_c",
+      "flags": 1
+    },
+    "79": {
+      "name": "side_a_3_d",
+      "flags": 1
+    },
+    "80": {
+      "name": "side_b_1_b",
+      "flags": 1
+    },
+    "81": {
+      "name": "side_b_2_b",
+      "flags": 1
+    },
+    "82": {
+      "name": "side_b_3_a",
+      "flags": 1
+    },
+    "83": {
+      "name": "side_b_3_b",
+      "flags": 1
+    },
+    "84": {
+      "name": "side_b_3_d",
+      "flags": 1
+    },
+    "85": {
+      "name": "side_d_1_a",
+      "flags": 1
+    },
+    "86": {
+      "name": "side_d_1_b",
+      "flags": 1
+    },
+    "87": {
+      "name": "side_e_1_a",
+      "flags": 1
+    },
+    "88": {
+      "name": "side_e_1_b",
+      "flags": 1
+    },
+    "89": {
+      "name": "side_f_1_a",
+      "flags": 1
+    },
+    "90": {
+      "name": "side_f_1_b",
+      "flags": 1
+    },
+    "91": {
+      "name": "side_g_2_a",
+      "flags": 1
+    },
+    "92": {
+      "name": "side_g_2_b",
+      "flags": 1
+    },
+    "93": {
+      "name": "side_g_3_a",
+      "flags": 1
+    },
+    "94": {
+      "name": "side_g_3_b",
+      "flags": 1
+    },
+    "95": {
+      "name": "side_h_2_a",
+      "flags": 1
+    },
+    "96": {
+      "name": "side_i_2_a",
+      "flags": 1
+    },
+    "97": {
+      "name": "side_j_3_a",
+      "flags": 1
+    },
+    "98": {
+      "name": "side_j_3_b",
+      "flags": 1
+    },
+    "99": {
+      "name": "side_k_2_a",
+      "flags": 1
+    },
+    "100": {
+      "name": "side_m_1_a",
+      "flags": 1
+    },
+    "101": {
+      "name": "corner_uniq_1_tl",
+      "flags": 256
+    },
+    "103": {
+      "name": "corner_uniq_1_tr",
+      "flags": 256
+    },
+    "102": {
+      "name": "corner_uniq_1_br",
+      "flags": 256
+    },
+    "104": {
+      "name": "corner_uniq_1_bl",
+      "flags": 256
+    },
+    "105": {
+      "name": "corner_uniq_2_tl",
+      "flags": 256
+    },
+    "107": {
+      "name": "corner_uniq_2_tr",
+      "flags": 256
+    },
+    "106": {
+      "name": "corner_uniq_2_br",
+      "flags": 256
+    },
+    "108": {
+      "name": "corner_uniq_2_bl",
+      "flags": 256
+    },
+    "109": {
+      "name": "corner_uniq_3_tl",
+      "flags": 256
+    },
+    "111": {
+      "name": "corner_uniq_3_tr",
+      "flags": 256
+    },
+    "110": {
+      "name": "corner_uniq_3_br",
+      "flags": 256
+    },
+    "112": {
+      "name": "corner_uniq_3_bl",
+      "flags": 256
+    },
+    "113": {
+      "name": "end_uniq_1_t",
+      "flags": 256
+    },
+    "114": {
+      "name": "end_uniq_1_b",
+      "flags": 256
+    },
+    "115": {
+      "name": "end_uniq_2_t",
+      "flags": 256
+    },
+    "116": {
+      "name": "end_uniq_2_b",
+      "flags": 256
+    },
+    "117": {
+      "name": "end_uniq_3_t",
+      "flags": 256
+    },
+    "118": {
+      "name": "end_uniq_3_b",
+      "flags": 256
+    },
+    "119": {
+      "name": "side_uniq_1_l",
+      "flags": 256
+    },
+    "120": {
+      "name": "side_uniq_1_r",
+      "flags": 256
+    },
+    "121": {
+      "name": "side_uniq_2_l",
+      "flags": 256
+    },
+    "122": {
+      "name": "side_uniq_2_r",
+      "flags": 256
+    },
+    "123": {
+      "name": "side_uniq_3_l",
+      "flags": 256
+    }
+  },
+  "section_groups": [
+    "corner",
+    "end",
+    "corner",
+    "side",
+    "corner",
+    "end",
+    "corner",
+    "side"
+  ],
+  "default_sections": [
+    1,
+    53,
+    1,
+    74,
+    1,
+    53,
+    1,
+    74,
+    -1,
+    -1
+  ],
+  "unique_stadium_count": 3
+}
